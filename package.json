@@ -1,0 +1,30 @@
+{
+ "name": "_______________",
+ "description": "_______________",
+ "keywords": "_______________",
+ "homepage": "_______________",
+ "version": "1.0.0",
+ "author": "_______________ <email@example.com> (https://example.com)",
+ "license": "ISC",
+ "bugs": "_______________",
+}
+
+"main": "_______________" 
+
+"repository": { 
+  "type": "_______________", 
+  "url": "_______________" 
+} 
+
+"scripts": { 
+"build": "__________", 
+  "test": "standard" 
+}
+
+"dependencies": { 
+
+},
+
+"devDependencies": {
+
+},
