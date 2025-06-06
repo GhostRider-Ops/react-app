@@ -17,7 +17,7 @@
 } 
 
 "scripts": { 
-  "build": "tsc", 
+  "build": "_________", 
   "test": "standard" 
 }
 
