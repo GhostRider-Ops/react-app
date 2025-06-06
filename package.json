@@ -12,17 +12,18 @@
 "main": "_______________" 
 
 "repository": { 
-  "type": "_______________", 
-  "url": "_______________" 
+  "type": "git", 
+  "url": "https://github.com/GhostRider-Ops/react-app.git" 
 } 
 
 "scripts": { 
-"build": "__________", 
+  "build": "tsc", 
   "test": "standard" 
 }
 
 "dependencies": { 
-
+ "react": "__________",
+ "react-dom": "__________"
 },
 
 "devDependencies": {
